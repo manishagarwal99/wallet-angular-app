@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "wallet-angular-app"
+  "defaultProject": "wallet-angular-app",
+  "cli": {
+    "analytics": false
+  }
 }
